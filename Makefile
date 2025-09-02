@@ -1,5 +1,5 @@
 PACTICIPANT := "pactflow-example-provider-springboot"
-GITHUB_REPO := "pactflow/example-provider-springboot"
+GITHUB_REPO := "luciancrasovan/example-provider-springboot"
 
 WEBHOOK_UUID := "9GS-Z8nSAbUzvJW4xmhdsg"
 CONTRACT_REQUIRING_VERIFICATION_PUBLISHED_WEBHOOK_UUID := "c76b601e-d66a-4eb1-88a4-6ebc50c0df8b"
